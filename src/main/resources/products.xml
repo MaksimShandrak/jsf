@@ -1,0 +1,8 @@
+<products>
+	<product>
+		<serial>1</serial>
+		<name>ball</name>
+		<description>football</description>
+		<date>2020-02-02</date>
+	</product>
+</products>
